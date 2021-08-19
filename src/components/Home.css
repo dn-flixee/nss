@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+}
+body  {
+    text-align: center;
+background-color: #163860;
+}
+
+p {
+    color: rgb(158, 141, 141);  
+    font-family: Montserrat;
+    Font-style: Regular;
+    Font-size: 48px;
+    line-height: 59px;
+    line-height: 100%;
+    Vertical-align: Top;
+}
+
+button {
+    background-color: #2661A7;
+    color: #fff;
+    font-size: 3rem;
+    border-radius: 0.5rem;
+    padding: 0 3rem;
+    padding-bottom: 1rem;
+    
+}
+
+#car {
+    margin: 50px;
+}

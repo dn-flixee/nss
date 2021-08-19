@@ -1,0 +1,131 @@
+.banner {
+  position: absolute;
+  width: 1240px;
+  height: 246px;
+  left: 0px;
+  top: 0px;
+}
+.nss_text {
+  position: absolute;
+  width: 886px;
+  height: 117px;
+  left: 240px;
+  top: 337px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 78px;
+
+  color: #2661a7;
+}
+
+.ssipmt_text {
+  position: absolute;
+  width: 1011px;
+  height: 75px;
+  left: 145px;
+  top: 493px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 42px;
+  line-height: 51px;
+  text-align: center;
+
+  color: #be9e60;
+}
+
+.certi_text {
+  position: absolute;
+  width: 523px;
+  height: 65px;
+  left: 421px;
+  top: 674px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 39px;
+  line-height: 48px;
+
+  color: #000000;
+}
+.context {
+  position: absolute;
+  width: 974px;
+  height: 212px;
+  left: 133px;
+  top: 817px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 39px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.techer_incharge {
+  position: absolute;
+  width: 473px;
+  height: 56px;
+  left: 747px;
+  top: 1569px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 25px;
+  line-height: 30px;
+  text-align: center;
+
+  color: #000000;
+}
+.techer_name {
+  position: absolute;
+  width: 414px;
+  height: 85px;
+  left: 781px;
+  top: 1499px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 32px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.bottom_rec {
+  position: absolute;
+  width: 1240px;
+  height: 28px;
+  left: 0px;
+  top: 1726px;
+
+  background: #2661a7;
+}
+
+.auto_text {
+  position: absolute;
+  width: 809px;
+  height: 104px;
+  left: -62px;
+  top: 1674px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 27px;
+  text-align: center;
+
+  color: #000000;
+}

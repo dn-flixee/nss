@@ -1,0 +1,14 @@
+body {
+    background-color: #163860;
+}
+
+label {
+    display: block;
+    color:#fff;
+   font-size:x-large;
+    
+}
+progress{
+    font-size: x-small;
+}
+

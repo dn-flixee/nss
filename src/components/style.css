@@ -1,0 +1,151 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+button {
+  position: relative;
+  left: 220px;
+  top: 848px;
+}
+.Post {
+  position: relative;
+  display: flex;
+  align-self: center;
+}
+
+.capture_bt {
+  position: absolute;
+  left: 220px;
+  top: 0px;
+}
+.banner {
+  position: absolute;
+  width: 596px;
+  height: 114px;
+  left: -1px;
+  top: 0px;
+}
+
+.nss_text {
+  position: absolute;
+  width: 464px;
+  height: 108px;
+  left: 82px;
+  top: 146px;
+
+  font-style: normal;
+  font-weight: 600;
+  font-size: 34px;
+  line-height: 41px;
+
+  color: #2661a7;
+}
+
+.ssipmt_text {
+  position: absolute;
+  width: 537px;
+  height: 59px;
+  left: 29px;
+  top: 200px;
+
+  font-style: normal;
+  font-weight: bold;
+  font-size: 21px;
+  line-height: 26px;
+  text-align: center;
+
+  color: #be9e60;
+}
+
+.certi_text {
+  position: absolute;
+  width: 264px;
+  height: 32px;
+  left: 182px;
+  top: 329px;
+
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 27px;
+
+  color: #000000;
+}
+
+.context {
+  position: absolute;
+  width: 483px;
+  height: 104px;
+  left: 45px;
+  top: 401px;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.techer_incharge {
+  position: absolute;
+  width: 239px;
+  height: 27px;
+  left: 346px;
+  top: 771px;
+
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.techer_name {
+  position: absolute;
+  width: 209px;
+  height: 42px;
+  left: 364px;
+  top: 729px;
+
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.bottom_rec {
+  position: absolute;
+  width: 595px;
+  height: 14px;
+  left: 0px;
+  top: 828px;
+
+  background: #2661a7;
+}
+
+.auto_text {
+  position: absolute;
+  width: 408px;
+  height: 51px;
+  left: -62px;
+  top: 798px;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 16px;
+  text-align: center;
+
+  color: #000000;
+}
+.print {
+  align-self: bottom;
+  display: flex;
+  position: relative;
+}
